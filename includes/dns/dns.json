@@ -1,0 +1,16 @@
+{
+    "default_color": "purple",
+    "dns_number": "3",
+    "server1_name": "tulatino",
+    "server1": "http:\/\/moontools.me:8080",
+    "server2_name": "aztk",
+    "server2": "https:\/\/aztecaplays.com:2083",
+    "server3_name": "ares",
+    "server3": "http:\/\/ares-tv.com\/",
+    "server4_name": "teste",
+    "server4": "",
+    "server5_name": "Test593",
+    "server5": "http:\/\/lgs.lat",
+    "server6_name": "didi",
+    "server6": "http:\/\/allinonestream.fans:8080"
+}
